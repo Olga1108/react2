@@ -1,0 +1,6 @@
+.item {
+    width: 45%;
+    height: 400px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}

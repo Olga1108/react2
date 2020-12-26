@@ -1,0 +1,14 @@
+.container-header {
+    width: 100%;
+    background-color: rgb(185, 224, 241);
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+form {
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
